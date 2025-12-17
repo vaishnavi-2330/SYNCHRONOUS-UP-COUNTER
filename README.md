@@ -68,7 +68,7 @@ endmodule
 
 **TRUTH TABLE**
 
-<img width="835" height="456" alt="digi11" src="https://github.com/user-attachments/assets/6ac1d624-7999-435b-a2b1-f86424858ee0" />
+<img width="542" height="270" alt="digi112" src="https://github.com/user-attachments/assets/ba136425-4e3b-42f2-833c-9811694bc96d" />
 
 **RESULTS**
 Thus the 4 bit synchronous up counter and validate functionality is implemented.
